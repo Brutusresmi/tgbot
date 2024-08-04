@@ -1,0 +1,5 @@
+requests
+asyncio
+telegram
+nest_asyncio
+
